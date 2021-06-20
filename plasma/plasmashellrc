@@ -1,0 +1,113 @@
+[DownloadDialog Settings]
+eDP Height 768=482
+eDP Width 1366=700
+
+[KFileDialog Settings]
+Recent Files[$e]=Scrivania/trash:⁄.desktop,file:$HOME/Scrivania/trash:⁄.desktop
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+Height 768=451
+Width 1366=403
+eDP Height 1366x768=347
+eDP Height 768=489
+eDP Width 1366=382
+eDP Width 1366x768=391
+
+[Notification Messages]
+ConfirmEmptyTrash=true
+really_clear_history=true
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_applications:lstopo.desktop,1 services_applications:mpv.desktop,1 services_applications:opengl.desktop,6 services_applications:org.kde.yakuake.desktop,15 services_applications:org.cunidev.gestures.desktop,23 services_applications:systemsettings.desktop,1 services_applications:manjaro-hello.desktop,2 services_applications:htop.desktop,1 shell_okular,1 services_applications:about-distro.desktop,11 services_applications:com.github.joseexposito.touche.desktop,1 services_applications:electron9.desktop,1 services_applications:marktext-appimage.desktop,8 services_applications:whatsapp-web.desktop,12 services_applications:chromium.desktop,1 services_applications:ida-free.desktop,1 services_applications:code-oss.desktop,1 services_applications:kcm_memory.desktop,4 services_applications:org.kde.latte-dock.desktop,11 services_applications:org.kde.kate.desktop,1 services_applications:kcm_touchpad.desktop,1 services_applications:msm_kernel.desktop,4 services_applications:kvantummanager.desktop,1 services_applications:kcm_baloofile.desktop,2 services_applications:org.kde.konsole.desktop,3 services_applications:org.olivevideoeditor.Olive.desktop,1 services_applications:cantata.desktop,1 services_applications:firefox.desktop,1 services_applications:org.kde.elisa.desktop,8 services_applications:virtualbox.desktop,1 services_applications:onlyoffice.desktop,4 services_applications:org.flameshot.Flameshot.desktop,2 services_applications:org.kde.kcalc.desktop,13 services_applications:brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop,3 services_applications:uno-calculator_uno-calculator.desktop,3 services_applications:vlc.desktop,1 services_applications:vivaldi-stable.desktop,17 services_applications:org.manjaro.pamac.manager.desktop,10 services_applications:brave-browser.desktop,1 services_applications:xserver.desktop,1 services_applications:org.kde.juk.desktop,1 services_applications:opera.desktop,4 services_applications:org.kde.okular.desktop,1 services_applications:org.kde.dolphin.desktop,3 services_applications:org.kde.kdeconnect.app.desktop,2 services_applications:balena-etcher-electron.desktop,2 services_applications:vim.desktop
+pluginWhiteList=services,shell,bookmarks,baloosearch,locations
+
+[PlasmaTransientsConfig]
+PreloadWeight=92
+
+[PlasmaViews][Panel 1][Defaults]
+thickness=35
+
+[PlasmaViews][Panel 1][Horizontal1024]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1152]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1200]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1280]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1366]
+thickness=35
+
+[PlasmaViews][Panel 1][Horizontal1440]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1600]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1680]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1900]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1916]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1920]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal2048]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal800]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal864]
+thickness=45
+
+[PlasmaViews][Panel 27]
+alignment=132
+
+[PlasmaViews][Panel 27][Defaults]
+maxLength=1818
+minLength=1818
+offset=0
+thickness=31
+
+[PlasmaViews][Panel 27][Horizontal1280]
+thickness=31
+
+[PlasmaViews][Panel 27][Horizontal1366]
+alignment=132
+panelVisibility=0
+thickness=31
+
+[PlasmaViews][Panel 50][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 50][Horizontal1366]
+thickness=27
+
+[PlasmaViews][Panel 51][Defaults]
+maxLength=2160
+minLength=2160
+offset=0
+thickness=45
+
+[PlasmaViews][Panel 51][Horizontal1366]
+alignment=1
+panelVisibility=0
+thickness=45
+
+[ScreenConnectors]
+0=eDP
+1=HDMI-A-0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js

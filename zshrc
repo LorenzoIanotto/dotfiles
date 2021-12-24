@@ -67,6 +67,8 @@ alias grep='grep --colour=auto'
 alias egrep='egrep --colour=auto'
 alias fgrep='fgrep --colour=auto'
 alias calcolatrice='qalc'
+alias cat='bat'
+alias diff='diff --color=auto'
 
 # Theming section  
 autoload -U compinit colors zcalc

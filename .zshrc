@@ -83,8 +83,6 @@ setopt autocd                                                   # if only direct
 # ENV
 export VISUAL="nvim"
 export EDITOR="nvim"
-export PNPM_HOME="/home/lorenzo/.local/share/pnpm"
-export PATH=$PATH:$PNPM_HOME
 export PATH=$PATH:/home/lorenzo/.cargo/bin
 
 # Shell integrations
